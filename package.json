@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/EMRL/webpack-css-class-extract-plugin/issues"
   },
-  "homepage": "https://github.com/EMRL/webpack-css-class-extract-plugin#readme"
+  "homepage": "https://github.com/EMRL/webpack-css-class-extract-plugin#readme",
+  "dependencies": {
+    "css-tree": "^2.3.1"
+  }
 }
