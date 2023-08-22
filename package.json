@@ -1,6 +1,6 @@
 {
   "name": "@emrl/webpack-css-class-extract-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extracts CSS classes from stylesheets and saves them to a JSON file",
   "type": "module",
   "exports": "./src/index.js",
